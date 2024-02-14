@@ -26,7 +26,7 @@ The project requires the following dependencies:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/monopoly-rl-agent.git](https://github.com/RamiAlkhateeb/Monopoly-RL-Agent)
+   git clone https://github.com/your-username/monopoly-rl-agent.git
    ```
 
 
