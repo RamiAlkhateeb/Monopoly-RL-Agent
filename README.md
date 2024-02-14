@@ -54,8 +54,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or feedback, please contact [your-name](mailto:your-email@example.com).
+For inquiries or feedback, please contact [your-name](mailto:rami13alkhateeb@gmail.com).
 
----
-
-Feel free to customize this `README.md` template according to the specifics of your project, such as adding sections for acknowledgments, references, or additional resources.
