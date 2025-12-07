@@ -54,5 +54,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or feedback, please contact [your-name](mailto:rami13alkhateeb@gmail.com).
+For inquiries or feedback, please contact [Rami Alkhateeb](mailto:rami13alkhateeb@gmail.com).
 
